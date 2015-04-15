@@ -3,7 +3,7 @@
   "version": "0.8.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pcottle/learnGitBranching"
+    "url": "http://bioconnector.org/learngit/"
   },
   "devDependencies": {
     "browserify": "~3.14.1",

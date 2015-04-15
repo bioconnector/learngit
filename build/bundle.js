@@ -8321,11 +8321,11 @@ exports.dialog = {
         '',
         'If you have not seen the demo, please check it out here:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?demo](http://pcottle.github.io/learnGitBranching/?demo)',
+        '[http://bioconnector.org/learngit/?demo](http://bioconnector.org/learngit/?demo)',
         '',
         'Annoyed at this dialog? Append `?NODEMO` to the url to get rid of it, linked below for convenience:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?NODEMO](?NODEMO)'
+        '[http://bioconnector.org/learngit/?NODEMO](?NODEMO)'
       ]
     }
   }, {
@@ -8377,11 +8377,11 @@ exports.dialog = {
         '',
         'Si no viste la demo, mirala en esta dirección:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?demo](http://pcottle.github.io/learnGitBranching/?demo)',
+        '[http://bioconnector.org/learngit/?demo](http://bioconnector.org/learngit/?demo)',
         '',
         '¿Harto de este mensaje? Agregale `?NODEMO` a la URL para dejar de verlo, como en este link:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?NODEMO](?NODEMO)'
+        '[http://bioconnector.org/learngit/?NODEMO](?NODEMO)'
       ]
     }
   }, {
@@ -8433,11 +8433,11 @@ exports.dialog = {
         '',
         'Se você ainda não viu o demo, veja aqui:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?demo](http://pcottle.github.io/learnGitBranching/?demo)',
+        '[http://bioconnector.org/learngit/?demo](http://bioconnector.org/learngit/?demo)',
         '',
         'Farto desta mensagem? Acrescente `?NODEMO` ao endereço para se livrar dela, como no link abaixo:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?NODEMO](?NODEMO)'
+        '[http://bioconnector.org/learngit/?NODEMO](?NODEMO)'
       ]
     }
   }, {
@@ -8486,11 +8486,11 @@ exports.dialog = {
         '',
         'Falls du die Demonstration noch nicht gesehen hast, schau sie dir hier an:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?demo](http://pcottle.github.io/learnGitBranching/?demo)',
+        '[http://bioconnector.org/learngit/?demo](http://bioconnector.org/learngit/?demo)',
         '',
         'Genervt von diesem Fenster? Häng `?NODEMO` an die URL um es los zu werden, so wie hier:',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?NODEMO](?NODEMO)'
+        '[http://bioconnector.org/learngit/?NODEMO](?NODEMO)'
       ]
     }
   }, {
@@ -8594,11 +8594,11 @@ exports.dialog = {
         '',
         '如果你还没看过演示，请到此查看：',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?demo](http://pcottle.github.io/learnGitBranching/?demo)',
+        '[http://bioconnector.org/learngit/?demo](http://bioconnector.org/learngit/?demo)',
         '',
         '厌烦这个对话框？ 在 URL 后头加上 `?NODEMO` 就看不到它了，也可以直接点下边这个链接：',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?NODEMO](http://pcottle.github.io/learnGitBranching/?NODEMO)'
+        '[http://bioconnector.org/learngit/?NODEMO](http://bioconnector.org/learngit/?NODEMO)'
       ]
     }
   }, {
@@ -8646,11 +8646,11 @@ exports.dialog = {
         '',
         '如果你還沒看過演示，請到此查看：',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?demo](http://pcottle.github.io/learnGitBranching/?demo)',
+        '[http://bioconnector.org/learngit/?demo](http://bioconnector.org/learngit/?demo)',
         '',
         '厭煩這個對話視窗嗎？在 URL 後頭加上 `?NODEMO` 就看不到它了，也可以直接點下邊這個連結：',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?NODEMO](http://pcottle.github.io/learnGitBranching/?NODEMO)'
+        '[http://bioconnector.org/learngit/?NODEMO](http://bioconnector.org/learngit/?NODEMO)'
       ]
     }
   }, {
@@ -8705,10 +8705,10 @@ exports.dialog = {
         // 'Unfortunately this was submitted before I finished all the help ',
         // 'and tutorial sections, so forgive the scarcity. See the demo here:',
         '',
-        '이 애플리케이션은 [Peter Cottle](https://github.io/pcottle)님의 [LearnGitBranching](http://pcottle.github.io/learnGitBranching/)를 번역한 것입니다.',
+        '이 애플리케이션은 [Peter Cottle](https://github.io/pcottle)님의 [LearnGitBranching](http://bioconnector.org/learngit/)를 번역한 것입니다.',
         '아래 데모를 먼저 보셔도 좋습니다.',
         '',
-        '<http://pcottle.github.io/learnGitBranching/?demo&locale=ko>'
+        '<http://bioconnector.org/learngit/?demo&locale=ko>'
       ]
     }
   }, {
@@ -8767,11 +8767,11 @@ exports.dialog = {
         '',
         'Si vous n\'avez pas vu la démo, vous pouvez le faire là :',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?demo](http://pcottle.github.io/learnGitBranching/?demo)',
+        '[http://bioconnector.org/learngit/?demo](http://bioconnector.org/learngit/?demo)',
         '',
         'Agacé par ce dialogue ? Ajoutez `?NODEMO` à l\'URL pour le supprimer, en lien ci-dessous pour votre commodité :',
         '',
-        '[http://pcottle.github.io/learnGitBranching/?NODEMO](?NODEMO)'
+        '[http://bioconnector.org/learngit/?NODEMO](?NODEMO)'
       ]
     }
   }, {
